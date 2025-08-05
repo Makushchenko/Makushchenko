@@ -4,7 +4,7 @@
 
 📍 Ternopil, Ukraine  
 📧 [alex.makushchenko@gmail.com](mailto:alex.makushchenko@gmail.com)  
-🔗 [GitHub](https://github.com/Makushchenko) | [LinkedIn](https://www.linkedin.com/in/oleksandr-makushchenko-900b221aa/)
+🔗 [GitHub](https://github.com/Makushchenko) | [LinkedIn](https://www.linkedin.com/in/oleksandr-makushchenko/)
 
 ---
 
