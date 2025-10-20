@@ -1,4 +1,4 @@
-**DevOps Engineer | AWS, Terraform Certified, Kubernetes, Helm, Flux, Linux, CI/CD, GitHub | Cloud & Systems Security**
+# **DevOps Engineer | AWS, Terraform Certified, Kubernetes, Helm, Flux, Linux, CI/CD, GitHub | Cloud & Systems Security**
 
 📍 Ternopil, Ukraine  
 📧 [alex.makushchenko@gmail.com](mailto:alex.makushchenko@gmail.com)  
