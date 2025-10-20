@@ -1,5 +1,3 @@
-# 👋 Hello World !
-
 **DevOps Engineer | AWS, Terraform Certified, Kubernetes, Helm, Flux, Linux, CI/CD, GitHub | Cloud & Systems Security**
 
 📍 Ternopil, Ukraine  
