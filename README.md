@@ -59,7 +59,7 @@ _EPAM Systems, Kharkiv_
 
 **Specialist Degree**  
 _Donbass State Engineering Academy_  
-*Graduated with honors*  
+*with honor*  
 **Aug 2012 – Jun 2017**
 
 ---
