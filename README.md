@@ -10,7 +10,7 @@
 
 ## 🔧 About Me
 
-I'm a results-driven DevOps engineer who consistently meets deadlines and takes full ownership of tasks. With a proven record as a department head, I bring experience in workflow organization, cloud infrastructure, and modern DevOps practices. I stay up to date with industry trends and drive the adoption of new technologies to enable efficiency, scalability, and security.
+Results-driven professional focused on solving business problems. I stay current with industry trends and proactively adopt new technologies to drive continuous improvements that reduce costs and help businesses deliver faster.
 
 ---
 
