@@ -45,14 +45,13 @@ _EPAM Systems, Kharkiv_
 ---
 
 ## 🛠️ Skills
-
-- **Cloud:** AWS, Cloud & Systems Security  
-- **Containers & Orchestration:** Docker, Kubernetes, Helm  
-- **IaC & Automation:** Terraform (Certified), Ansible, CI/CD (GitHub Actions, Bitbucket Pipelines, TeamCity, Jenkins)  
-- **Monitoring:** Prometheus, Grafana, Datadog, Site24x7, Nagios, Orca, Intruder  
-- **Scripting & Development:** Bash, Python, PL/SQL  
-- **Version Control:** Git, GitHub, Bitbucket  
-- **OS & Networking:** Linux, Networking Basics
+- **Cloud & Kubernetes:** AWS, GCP, Kubernetes (EKS, GKE, self-managed), Helm, Linux
+- **IaC & GitOps:** Terraform (Certified), Flux, Kyverno
+- **CI/CD:** GitHub Actions, Jenkins, TeamCity, Bitbucket Pipelines, Docker
+- **Observability:** Prometheus, Grafana, Datadog, Site24x7
+- **Security:** Cloud & systems hardening, AWS WAF/Kyverno policies, Orca Security
+- **Networking:** VPC, load balancers, DNS, ingress
+- **Scripting & Data:** Bash, Python, PL/SQL
 
 ---
 
