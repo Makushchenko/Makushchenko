@@ -44,7 +44,7 @@ _EPAM Systems | HealthTech_
 
 **DevSecOps**  
 _Hackathon: Intelligent Kubernetes Autoscaler Challenge_  
-*Sep 2025 – Present*
+**Sep 2025 – Present**
 - Hackathon Winner
 - Designed an AI-driven Kubernetes autoscaler optimizing resource utilization and scaling latency.
 - Integrated observability metrics (Prometheus, Grafana) for predictive scaling decisions.
