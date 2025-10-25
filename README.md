@@ -44,6 +44,15 @@ _EPAM Systems, Kharkiv_
 
 ---
 
+## 🧠 Projects
+
+**Hackathon: Intelligent Kubernetes Autoscaler Challenge** – *Hackathon Winner*
+
+- Designed an AI-driven Kubernetes autoscaler optimizing resource utilization and scaling latency.
+- Integrated observability metrics (Prometheus, Grafana) for predictive scaling decisions.
+- Achieved recognition for innovation and cost efficiency.
+---
+
 ## 🛠️ Skills
 - **Cloud & Kubernetes:** AWS, GCP, Kubernetes (EKS, GKE, self-managed), Helm, Linux
 - **IaC & GitOps:** Terraform (Certified), Flux, Kyverno
@@ -52,6 +61,13 @@ _EPAM Systems, Kharkiv_
 - **Security:** Cloud & systems hardening, AWS WAF/Kyverno policies, Orca Security
 - **Networking:** VPC, load balancers, DNS, ingress
 - **Scripting & Data:** Bash, Python, PL/SQL
+
+---
+
+## 🌍 Languages
+
+- **Ukrainian** – Native  
+- **English** – B2 Upper-Intermediate
 
 ---
 
@@ -74,10 +90,3 @@ _Donbass State Engineering Academy_
 - 🌐 *AWS Cloud Solutions Architect* – [Certificate](https://www.coursera.org/account/accomplishments/professional‑cert/EC9S5XA7KACZ)  
 - 🏗 *Architecting Solutions on AWS* – [Certificate](https://www.coursera.org/account/accomplishments/verify/CKFFW4W58G3K)  
 - ☁️ *AWS Certified Cloud Practitioner* – [Credly Badge](https://www.credly.com/badges/6984453f‑b26e‑453d‑925b‑55a1578cda5e?source=linked_in_profile)
-
----
-
-## 🌍 Languages
-
-- **Ukrainian** – Native  
-- **English** – B2 Upper-Intermediate
