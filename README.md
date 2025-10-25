@@ -40,6 +40,14 @@ _EPAM Systems | HealthTech_
 
 ---
 
+## 📂 Projects
+
+| Period | Project | Description |
+|:-------|:---------|:-------------|
+| **09/2025 – Present** | **DevSecOps**, *Hackathon* | Intel
+
+---
+
 ## 🗂 Projects
 
 **DevSecOps**  
