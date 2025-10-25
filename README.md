@@ -17,24 +17,24 @@ Professional focused on solving business problems. I stay current with industry 
 ## 💼 Work Experience
 
 **Middle DevOps Engineer**  
-_SchoolDay (formerly GG4L), Rivne_  
+_SchoolDay (formerly GG4L) | EdTech_  
 **Apr 2024 – Present**  
 - Reduced infrastructure costs by up to $5k/month through right-sizing.
 - Migration to an automated cloud environment with unified observability.
 - SOC 2 compliance.
 
 **Junior DevOps Engineer**  
-_Global Grid for Learning (GG4L), Rivne_  
+_Global Grid for Learning (GG4L) | EdTech_  
 **Jul 2022 – Apr 2024**  
 - Reduced latency by 2×, infrastructure costs by up to 10% and enhanced edge security by infrastructure refactoring.
 
 **Junior DevOps Engineer**  
-_DEDICATTED, Lviv_  
+_DEDICATTED | E-commerce_  
 **May 2022 – Jul 2022**  
 - Achieved up to 15% infrastructure cost reduction by provisioning a self-hosted Kubernetes cluster with full automation and deploying optimized Docker services.
 
 **Trainee DevOps Engineer**  
-_EPAM Systems, Kharkiv_  
+_EPAM Systems | HealthTech_  
 **Nov 2021 – Jun 2022**  
 - Reduced product development time by up to 30% by implementing AWS-backed Kubernetes via Terraform and an end-to-end CI/CD pipeline for a Java application.
 
