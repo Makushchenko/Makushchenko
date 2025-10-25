@@ -47,9 +47,10 @@ _EPAM Systems, Kharkiv_
 ## 🧠 Projects
 
 **DevSecOps**  
-_Hackathon: Intelligent Kubernetes Autoscaler Challenge_ *Hackathon Winner*  
+_Hackathon: Intelligent Kubernetes Autoscaler Challenge_  
 **Sep 2025 – Present**  
 
+- Hackathon Winner
 - Designed an AI-driven Kubernetes autoscaler optimizing resource utilization and scaling latency.
 - Integrated observability metrics (Prometheus, Grafana) for predictive scaling decisions.
 - Achieved recognition for innovation and cost efficiency.
