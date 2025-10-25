@@ -53,13 +53,12 @@ _Hackathon: Intelligent Kubernetes Autoscaler Challenge_
 ---
 
 ## 🛠️ Skills
-- **Cloud & Kubernetes:** AWS, GCP, Kubernetes (EKS, GKE, self-managed), Helm, Linux
-- **IaC & GitOps:** Terraform (Certified), Flux, Kyverno
-- **CI/CD:** GitHub Actions, Jenkins, TeamCity, Bitbucket Pipelines, Docker
-- **Observability:** Prometheus, Grafana, Datadog, Site24x7
-- **Security:** Cloud & systems hardening, AWS WAF/Kyverno policies, Orca Security
-- **Networking:** VPC, load balancers, DNS, ingress
-- **Scripting & Data:** Bash, Python, PL/SQL
+- **Cloud & Infrastructure:** AWS, GCP, Kubernetes, Terraform, Helm
+- **Automation & CI/CD:** Flux, Jenkins, TeamCity, Bitbucket, GitHub, CI/CD, Bash, Python
+- **Monitoring & Observability:** Prometheus, Grafana, Datadog, Site24x7, Kyverno
+- **Security & Compliance:** Orca, Vanta
+- **Containerization & Systems:** Docker, Linux
+- **Database & Backend:** PostgreSQL, MySQL
 
 ---
 
