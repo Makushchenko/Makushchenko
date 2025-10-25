@@ -19,28 +19,24 @@ Professional focused on solving business problems. I stay current with industry 
 **Middle DevOps Engineer**  
 _SchoolDay (formerly GG4L), Rivne_  
 **Apr 2024 – Present**  
-- Kubernetes (EKS/self-managed) implementation  
-- Cloud security and AWS infrastructure migration  
-- CI/CD pipelines, logging, and monitoring setup
+- Reduced infrastructure costs by up to $5k/month through right-sizing.
+- Migration to an automated cloud environment with unified observability.
+- SOC 2 compliance.
 
 **Junior DevOps Engineer**  
 _Global Grid for Learning (GG4L), Rivne_  
 **Jul 2022 – Apr 2024**  
-- AWS infrastructure migration  
-- Bash/Python scripting  
-- Docker-based deployments and IaC implementation
+- Reduced latency by 2×, infrastructure costs by up to 10% and enhanced edge security by infrastructure refactoring.
 
 **Junior DevOps Engineer**  
 _DEDICATTED, Lviv_  
 **May 2022 – Jul 2022**  
-- CI/CD pipeline setup  
-- AWS and Kubernetes deployment tasks
+- Achieved up to 15% infrastructure cost reduction by provisioning a self-hosted Kubernetes cluster with full automation and deploying optimized Docker services.
 
 **Trainee DevOps Engineer**  
 _EPAM Systems, Kharkiv_  
 **Nov 2021 – Jun 2022**  
-- Jenkins CI/CD for Java apps  
-- Terraform-based AWS + Kubernetes deployments
+- Reduced product development time by up to 30% by implementing AWS-backed Kubernetes via Terraform and an end-to-end CI/CD pipeline for a Java application.
 
 ---
 
@@ -48,8 +44,7 @@ _EPAM Systems, Kharkiv_
 
 **DevSecOps**  
 _Hackathon: Intelligent Kubernetes Autoscaler Challenge_  
-**Sep 2025 – Present**  
-
+**Sep 2025 – Present**
 - Hackathon Winner
 - Designed an AI-driven Kubernetes autoscaler optimizing resource utilization and scaling latency.
 - Integrated observability metrics (Prometheus, Grafana) for predictive scaling decisions.
