@@ -7,7 +7,7 @@
 
 ---
 
-## 🔧 About Me
+## 📰 About Me
 
 DevOps Engineer with 4+ years of AWS and Kubernetes experience focused on cloud automation, observability, and cost-efficiency. Winner of a Hackathon recognized for innovation in kubernetes scalability and observability solutions.
 Professional focused on solving business problems. I stay current with industry trends and proactively adopt new technologies to drive continuous improvements that reduce costs and help businesses deliver faster.
@@ -40,15 +40,16 @@ _EPAM Systems | HealthTech_
 
 ---
 
-## 🧠 Projects
+## 🗂 Projects
 
 **DevSecOps**  
 _Hackathon: Intelligent Kubernetes Autoscaler Challenge_  
-**Sep 2025 – Present**
+*Sep 2025 – Present*
 - Hackathon Winner
 - Designed an AI-driven Kubernetes autoscaler optimizing resource utilization and scaling latency.
 - Integrated observability metrics (Prometheus, Grafana) for predictive scaling decisions.
 - Achieved recognition for innovation and cost efficiency.
+  
 ---
 
 ## 🛠️ Skills
