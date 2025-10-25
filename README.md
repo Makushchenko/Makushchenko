@@ -9,7 +9,7 @@
 
 ## 🔧 About Me
 
-DevOps Engineer with 4+ years of AWS and Kubernetes experience focused on cloud automation, observability and cost-efficient scaling. Hackathon achiever recognized for developing an Intelligent Kubernetes Autoscaler.
+DevOps Engineer with 4+ years of AWS and Kubernetes experience focused on cloud automation, observability, and cost-efficiency. Winner of a Hackathon recognized for innovation in kubernetes scalability and observability solutions.
 Professional focused on solving business problems. I stay current with industry trends and proactively adopt new technologies to drive continuous improvements that reduce costs and help businesses deliver faster.
 
 ---
@@ -46,7 +46,9 @@ _EPAM Systems, Kharkiv_
 
 ## 🧠 Projects
 
-**Hackathon: Intelligent Kubernetes Autoscaler Challenge** – *Hackathon Winner*
+**DevSecOps**  
+_Hackathon: Intelligent Kubernetes Autoscaler Challenge_ *Hackathon Winner*  
+**Sep 2025 – Present**  
 
 - Designed an AI-driven Kubernetes autoscaler optimizing resource utilization and scaling latency.
 - Integrated observability metrics (Prometheus, Grafana) for predictive scaling decisions.
