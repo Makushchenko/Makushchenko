@@ -9,7 +9,8 @@
 
 ## 🔧 About Me
 
-Results-driven professional focused on solving business problems. I stay current with industry trends and proactively adopt new technologies to drive continuous improvements that reduce costs and help businesses deliver faster.
+DevOps Engineer with 4+ years of AWS and Kubernetes experience focused on cloud automation, observability and cost-efficient scaling. Hackathon achiever recognized for developing an Intelligent Kubernetes Autoscaler.
+Professional focused on solving business problems. I stay current with industry trends and proactively adopt new technologies to drive continuous improvements that reduce costs and help businesses deliver faster.
 
 ---
 
