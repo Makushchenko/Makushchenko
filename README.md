@@ -78,13 +78,6 @@ _Donbass State Engineering Academy_
 
 ---
 
-## 📜 Certifications & Courses
+## 📜 Certifications
 
 - 🏆 **HashiCorp Certified: Terraform Associate (003)** – *May 2025 – May 2027*  
-- 🛡 **ISC2 Systems Security Certified Practitioner (SSCP)** – *Feb 2025 – Present*  
-- 🤖 **Fundamentals of Generative AI for Beginners** – Coursera  
-- ☁️ *AWS Certified Solutions Architect Associate (SAA-C03)* – [Certificate](https://www.udemy.com/certificate/UC‑89a402cb‑7df5‑4e3c‑85d1‑dbeb5e6bf05c/)  
-- 🐧 *Learning Linux for LFCA* – [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/3G2YD95LCDCH)  
-- 🌐 *AWS Cloud Solutions Architect* – [Certificate](https://www.coursera.org/account/accomplishments/professional‑cert/EC9S5XA7KACZ)  
-- 🏗 *Architecting Solutions on AWS* – [Certificate](https://www.coursera.org/account/accomplishments/verify/CKFFW4W58G3K)  
-- ☁️ *AWS Certified Cloud Practitioner* – [Credly Badge](https://www.credly.com/badges/6984453f‑b26e‑453d‑925b‑55a1578cda5e?source=linked_in_profile)
