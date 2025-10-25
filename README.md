@@ -17,11 +17,11 @@ Professional focused on solving business problems. I stay current with industry 
 ## 💼 Work Experience
 
 **Middle DevOps Engineer**  
-_SchoolDay | EdTech_  
-**Apr 2024 – Present**  
-- Reduced infrastructure costs by up to $5k/month through right-sizing.
-- Migration to an automated cloud environment with unified observability.
-- SOC 2 compliance.
+  _SchoolDay | EdTech_  
+  **Apr 2024 – Present**  
+  - Reduced infrastructure costs by up to $5k/month through right-sizing.
+  - Migration to an automated cloud environment with unified observability.
+  - SOC 2 compliance.
 
 **Junior DevOps Engineer**  
 _SchoolDay | EdTech_  
